@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Clarendon BT';
+    src: url('ClarendonBT-Roman.eot');
+    src: url('ClarendonBT-Roman.eot?#iefix') format('embedded-opentype'),
+        url('ClarendonBT-Roman.woff2') format('woff2'),
+        url('ClarendonBT-Roman.woff') format('woff'),
+        url('ClarendonBT-Roman.ttf') format('truetype'),
+        url('ClarendonBT-Roman.svg#ClarendonBT-Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
